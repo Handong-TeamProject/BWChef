@@ -1,0 +1,49 @@
+*{  
+    margin : 0;
+    padding : 0;
+}
+
+@font-face {
+    font-family: 'AntonSC';
+    src: url('./font/AntonSC.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'intelone-display';
+    src: url('./font/intelone-display.ttf') format('truetype');
+}
+
+:root {
+    /* 컬러 변수 */
+    /* --main-color: #3498db; */
+    --background-black : #000000;
+    --background-gray : $2F2F2F;
+    /* 강조 색상 */
+    --font-black : #000000;
+    --font-white : #D5D5D5;
+
+    /* 폰트 사이즈 변수 */
+    --font-size-30px: 30px;
+    --font-size-40px: 40px;
+    --font-size-50px : 50px;
+
+    /* 여백 변수 */
+}
+
+body{
+    background-color: var(--background-black);
+    color : var(--font-white);
+    width: 100%;
+    height : auto;
+    position: relative;
+}
+
+a {
+    text-decoration: none;
+    color : inherit;
+}
+
+#div-base-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

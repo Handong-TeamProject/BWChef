@@ -1,0 +1,33 @@
+header{
+    display: flex;
+    /* background-color: aqua; */
+    padding : 0px 100px;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+    padding-top: 30px;
+    box-sizing: border-box;
+}
+
+#image-logo{
+    width: 200px;
+}
+
+#image-logo:hover{
+    filter: brightness(0.5);
+}
+
+#menu-list{
+    display: flex;
+}
+
+#menu-item{
+    width: 100px;
+    font-size: 30px;
+    font-family: "AntonSC";
+    text-align: right;
+}
+
+#menu-item:hover{
+    filter: brightness(0.5);
+}

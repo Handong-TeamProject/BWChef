@@ -1,0 +1,39 @@
+#white-container, #black-container{
+    display: flex;
+}
+#div-chef-card{
+    width: 258px;
+    height : 320px;
+    
+    margin-right: 20px;
+
+    transition: transform 1s ease;
+
+    &:last-child{
+        margin-right: 0px;
+    }
+    
+}
+
+#div-chef-card:hover {
+    transform: scale(1.2);
+}
+
+#div-chef-card:hover > :not(:hover){
+    filter: blur(5px);
+    opacity: 0.5;
+}
+
+#image-chef{
+
+    width: 100%;
+    height : 100%;
+    object-fit: cover;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px gray;
+
+}
+
+#black-container{
+    margin-bottom: 200px;
+}
