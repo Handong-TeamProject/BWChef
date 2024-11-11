@@ -1,0 +1,29 @@
+#div-intro-container1{
+    width: 100%;
+    padding-top: 10vw;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+#image-chef{
+    width: 20%;
+}  
+
+#image-logo-center{
+    width: 50%;
+}
+
+#div-intro-container2 {
+    width: 100%;
+    margin-top: 200px;
+}
+
+#image-poster{
+    width: 100%;
+    height : auto;
+    opacity: 0.3;
+    z-index: 2;
+}
