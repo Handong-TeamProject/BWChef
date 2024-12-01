@@ -45,7 +45,7 @@
 body{
     background-color: var(--background-black);
     color : var(--font-white);
-    /* min-width: 1300px; */
+    /* width: 1300px; */
     width: 100%;
     margin : 0 auto;
     height : auto;

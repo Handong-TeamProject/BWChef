@@ -58,6 +58,8 @@
     font-weight: bold;
     color: gray;
     margin-bottom: 20px;
+    font-family: 'NanumSquare_acR';
+
 
 }
 #p-chef-saying {
@@ -89,6 +91,7 @@
 }
 
 #p-cook-info-title-sub {
+    font-family: 'NanumSquare_acR';
     font-size: 15px;
 }
 
@@ -275,6 +278,11 @@
 
 }
 
+#div-restaurant-info2-right-container{
+    display: flex;
+    align-items: end;
+}
+
 #div-restaurant-place{
     margin-top: 20px;
     margin-bottom: 15px;
@@ -284,6 +292,7 @@
     text-align: right;
     font-size: 18px;
     color : white;
+    font-family: 'NanumSquare_acR';
 }
 
 #img-icon{
@@ -300,6 +309,7 @@
 #p-restaurant-info2-href-name{
     font-size: 20px;
     transition: color 1s ease;
+    font-family: 'NanumSquare_acR';
 }
 
 #p-restaurant-info2-href-name:hover{
