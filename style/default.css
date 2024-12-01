@@ -19,6 +19,11 @@
     font-family: 'NanumGothic';
     src: url('./font/NanumGothic.ttf') format('truetype');
 }
+@font-face {
+    font-family: 'BMHANNAPro';
+    src: url('./font/BMHANNAPro.ttf') format('truetype');
+}
+
 
 :root {
     /* 컬러 변수 */
@@ -56,3 +61,5 @@ a {
     flex-direction: column;
     align-items: center;
 }
+
+

@@ -27,6 +27,14 @@ header{
     text-align: right;
 }
 
+#menu-item-black {
+    width: 100px;
+    font-size: 30px;
+    font-family: "AntonSC";
+    text-align: right;
+    color : black;
+}
+
 #menu-item:hover{
     filter: brightness(0.5);
 }

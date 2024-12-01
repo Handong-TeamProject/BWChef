@@ -194,13 +194,15 @@
 }
 
 #image-quiz-image{
-    width: 20%;
+    width: 258px;
+    height: 320px;
     border-radius: 20px;
     margin: 20px;
     transition: transform 1s ease;
+    box-shadow: 5px 5px 5px gray;
     
 }
 
 #image-quiz-image:hover{
-    transform: scale(1.1);
+    transform: scale(1.2);
 }

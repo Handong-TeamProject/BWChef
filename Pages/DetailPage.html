@@ -3,29 +3,48 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="../Style/index.css">
+        <link rel="stylesheet" href="../Style/detail.css">
         <link rel="stylesheet" href="../Style/default.css">
         <link rel="stylesheet" href="../Style/header.css">
         <link rel="stylesheet" href="../Style/footer.css">
+        <style>
+            body{
+                background-color: white;
+            }
+        </style>
         <title>DetailPage</title>
     </head>
     <body>
         <header>
             <a href=""><img
-                src="https://i.namu.wiki/i/JzJA3G54wk3jh5YFBh9G2lhw5l97H5B-y_rNHDf37rLgBv-4sW0vC3rHzmpIkoW04jgXR5fJl854LgHZ3FAPNQ.webp"
-                alt="logo_white"
+                src="https://velog.velcdn.com/images/oksk6681/post/73cca5a8-c454-4f97-a9fd-e6b324c7df49/image.png"
+                alt="logo_black"
                 id="image-logo"/></a>
             <div id="menu-list">
-                <div id="menu-item">
+                <div id="menu-item-black">
                     <a href="../index.html">Home</a>
                 </div>
-                <div id="menu-item">
+                <div id="menu-item-black">
                     <a href="./ListPage.html">List</a>
                 </div>
             </div>
         </header>
         <div id="div-base-container">
-            DetailPage
+            <div id = "div-container-1">
+                <div id = "div-left-container">
+                    <div id = "div-chef-info">
+                        <p id = "p-chef-name"></p>
+                        <p id = "p-chef-cook-type"></p>
+                    </div>
+                    <img src = "" id = "img-empty-image"/>
+                </div>
+                <div id = "div-right-container">
+                    <p id = "p-chef-saying-title">출연진의 명대사</p>
+                    <p id = "p-chef-saying"></p>
+                </div>
+            </div>
         </div>
+
+        <script src="../Script/detail.js"></script>
     </body>
 </html>

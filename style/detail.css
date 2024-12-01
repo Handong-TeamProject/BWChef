@@ -1,0 +1,66 @@
+#div-container-1{
+    display: flex;
+    width: 100%;
+    padding-top: 50px;
+    box-sizing: border-box;
+
+}
+
+#div-left-container, #div-right-container{
+    flex: 1;
+    /* background-color: red; */
+}
+
+#div-left-container{
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+#div-chef-info{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left : 50px;
+    bottom: 53%;
+}
+
+#p-chef-name, #p-chef-cook-type{
+    font-family: 'NanumGothic';
+    color : gray;
+}
+
+#p-chef-name{
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+#p-chef-cook-type{
+    font-size: 25px;
+}
+
+#img-empty-image{
+    width: auto;
+    height : 600px;
+}
+
+#div-right-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#p-chef-saying-title{
+    font-size: 20px;
+    font-weight: bold;
+    color : gray;
+    margin-bottom: 20px;
+
+}
+#p-chef-saying{
+    font-family: 'BMHANNAPro';
+    font-size: 50px;
+    color : black;
+    line-height: 80px;
+}
