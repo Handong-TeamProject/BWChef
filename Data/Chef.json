@@ -6,7 +6,32 @@
         "cook_type": "중식",
         "image": "https://velog.velcdn.com/images/oksk6681/post/328d2f5e-9a72-49f6-822b-d758754d8df3/image.png",
         "empty_image" : "https://velog.velcdn.com/images/oksk6681/post/58e9cdcd-5e63-44b6-8418-074e8fb60abe/image.png",
-        "saying" : "가만있어"
+        "saying" : "가만있어",
+        "food-info" : [
+            {
+                "food-name" : "송서계어",
+                "food-image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDEwMTBfNiAg%2FMDAxNzI4NTY0ODAwOTU4.LPjr1VY6VPnLRDPeY2VdBSStIaAhx8FIICpjFGAkyFIg.N3sRmYDLWz7fgEGVj7TvfWwe3pm8RbrFYkKnaTdBmiMg.PNG%2Fimage.png&type=sc960_832",
+                "food-video" : "https://youtube.com/shorts/PSw33Ywz6uA?feature=shared"
+            },{
+                "food-name" : "시래기 바쓰 흑초 강정",
+                "food-image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDA5MjZfNzMg%2FMDAxNzI3MjgzNDY3MzEy.zSWPNXWaLspwChS8FpgZB6UwfTWcQttI6pyO649B6H0g.ZxfY_eUO6KNbvhl8WqB8Eu3MsYe9Y78wYj3YNC_aBe0g.PNG%2Fimage.png&type=sc960_832",
+                "food-video" : "https://youtube.com/shorts/dKR8GO6IKqA?feature=shared"
+            },{
+                "food-name" : "라면 유포면",
+                "food-image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDEwMDJfMjYw%2FMDAxNzI3ODI1MTM0OTEx.oCMkK4oM1K2p0xIRHjiSN_GVvSeq1uD-lsxPWouTXXQg.t3QuMYujl-SiWxDiEsMajNb1-WWblOL--3Hlg0VXUSgg.JPEG%2FScreenshot%25A3%25DF20241001%25A3%25DF181259%25A3%25DFSamsung_Internet.jpg&type=sc960_832",
+                "food-video" : "https://youtube.com/shorts/JsjZZE72rPE?feature=shared"
+            }
+        ],
+        "story_image" : "https://velog.velcdn.com/images/oksk6681/post/78e822a4-2b34-4ed7-a4f8-631a1e4f05a6/image.png",
+        "story_content" : "20대 때 진로를 고민했던 시기에 인생의 전환점이 되었던 요리 중 하나에요. 주방에 여자 셰프가 있는 것은 흔한 일이 아니었기에 항상 혼자여서 외로웠어요. 그때 중국에 갔는데 처음 배운 요리가 송서계어였어요. “한국에서 봤던 요리와 이렇게 다르구나. 섬세함과 화려함이.. 이런게 요리인가?” 하며 되게 빠졌었어요. 이런 요리를 하면 내가 좀 더 빛나겠다고 생각도 했다. “이 송서계어를 접하지 않았다면 요리를 했을까?”하는 생각도 했어요. 웍과 국자, 칼만 있으면 모든 화려한 요리를 할 수 있으니까, 이런 기술 때문에 더 버틸 수 있었어요. 저는 그거에 자부심을 가졌던 것 같아요.",
+        "restaurant_type" : "중식당",
+        "restaurant_name" : "티엔미미 (강남점)",
+        "restaurant_time" : "11:00 ~ 22:00",
+        "restaurant_phone" : "010-8874-1040",
+        "restaurant_place" : "서울 서초구 사임당로 143 Cross143 1층 104-1호",
+        "restaurant_place_url" : ["daumRoughmapContainer1733068518008", "1733068518008", "2mezz"],
+        "restaurant_reservation_url" : "https://app.catchtable.co.kr/ct/shop/tianmimihongdae",
+        "restaurant_sns_url" : "https://www.instagram.com/tianmimi_gangnam/"
     }, {
         "u_id": "2",
         "name": "장호준",
@@ -14,7 +39,32 @@
         "cook_type": "일식",
         "image": "https://velog.velcdn.com/images/oksk6681/post/2aad0c84-a2af-4a71-b5ce-ca5c30fc3674/image.png",
         "empty_image" : "https://velog.velcdn.com/images/oksk6681/post/d186edf3-d015-4ccc-9de9-ee2190e81342/image.png",
-        "saying" : "바이바이 갑니다<br/>수고하세용"
+        "saying" : "바이바이 갑니다<br/>수고하세용",
+        "food-info" : [
+            {
+                "food-name" : "쿠로 다마네기",
+                "food-image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDEwMjVfMTAz%2FMDAxNzI5ODUwNjY0Mjg3.1AbkV-MoVFj10gRez3UKnRhPq2C7UvJvVIAX_MsJ3s4g.FcuyoRY73UiuZzRPLP8HAK1NyGm7kmZAcV1zXXjxRCQg.JPEG%2F20241024%25A3%25DF181735.jpg&type=sc960_832",
+                "food-video" : "https://youtube.com/shorts/5msHA_lIsvI?feature=shared"
+            },{
+                "food-name" : "간모도키 앙가케",
+                "food-image" : "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ganmodoki.jpg",
+                "food-video" : "https://youtu.be/fVq41NFkPbM?si=E_qPM7waNLgOxY1A&t=5"
+            },{
+                "food-name" : "두부 스키야키동",
+                "food-image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDEwMDlfNzMg%2FMDAxNzI4NDQxODUxNzU4.HC_eFDuRQukChDDnDYxWRDkdJRfK_DLp7cMNZ24ysCcg.ZUU6MkjA5BniHSlOfXh3UReOz4SSKC03NDc0BA1fBSQg.PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2024-10-09_114356.png&type=sc960_832",
+                "food-video" : "https://youtube.com/shorts/M7JFBsIYgi8?feature=shared"
+            }
+        ],
+        "story_image" : "https://velog.velcdn.com/images/oksk6681/post/fb84ce18-7bcc-4b85-a90c-e4d19b04f0f8/image.png",
+        "story_content" : "9년 전에 처음 장사를 할 때 부푼 희망을 안고 했는데 생각했던 것보다 잘 안 됐어요. 거의 내다 앉을 뻔했죠. 그래서 좀 싸고 맛있게 할 수 있는 재료가 뭐가 있을까 하다가 문득 양파가 생각이 나서 그때 시그니처로 만든 요리에요. 그게 점차 입소문이 퍼지면서 현재 매장을 9개를 운영하고 있는데 이걸 할 수 있게 해준 제 인생 요리에요. 아직까지도 대표 메뉴로 매장에서 팔고 있어요.",
+        "restaurant_type" : "일식당",
+        "restaurant_name" : "네기스키야키",
+        "restaurant_time" : "11:30 - 22:00 (월~토)",
+        "restaurant_phone" : "02-543-1060",
+        "restaurant_place" : "서울 강남구 논현로 854 지하 1층",
+        "restaurant_place_url" : ["daumRoughmapContainer1733070134036", "1733070134036", "2mez9"],
+        "restaurant_reservation_url" : "https://app.catchtable.co.kr/ct/shop/negisgyg?from=share&type=DINING&fbclid=PAZXh0bgNhZW0CMTEAAabQxU53w4oUZwSKYe-8s9SCyjmO1yIGuowfiAKWsHQI2PYgRsMh92hgqGM_aem_rN_Tf1m4A7xUEOKpf4LKow",
+        "restaurant_sns_url" : "https://www.instagram.com/negi_sukiyaki_/"
     }, {
         "u_id": "3",
         "name": "에드워드 리",
@@ -22,7 +72,32 @@
         "cook_type": "퓨전 한식",
         "image": "https://velog.velcdn.com/images/oksk6681/post/c7886eb3-8da8-4731-a69c-1295393df637/image.png",
         "empty_image" : "https://velog.velcdn.com/images/oksk6681/post/be33683a-4952-41a7-8853-5b8edf32ebac/image.png",
-        "saying" : "무...물코기"
+        "saying" : "무...물코기",
+        "food-info" : [
+            {
+                "food-name" : "현대식 참치 캐비어 비빔밥",
+                "food-image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDEwMTRfMTUz%2FMDAxNzI4ODg4NTU1NjA1.moI_07jaf7yTJSaLuK8GjpqpNfc1U5Jf8wm_c4EtOhYg.jnJ2JlzsN7p0NSPvqdVp808dHSQ9XEc8d4aq-X_TMB0g.JPEG%2F%25C2%25FC%25C4%25A1_%25BA%25F1%25BA%25F6%25B9%25E4.jpg&type=sc960_832",
+                "food-video" : "https://youtube.com/shorts/5hvY1PTnebU?feature=shared"
+            },{
+                "food-name" : "나머지 떡볶이 디저트",
+                "food-image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDEwMDlfMjQ4%2FMDAxNzI4NDE2MjI5MzQy.kJyt-8trB-iTv23C8Pk8_IEx3obma-Hk7o9kc48a6VAg.HWiRelFg8y-Lw2qvOTUqCHLO_6g6r-SXUiSHhB8hQJgg.JPEG%2FScreenshot%25A3%25DF20241009%25A3%25DF034916%25A3%25DFSamsung_Internet.jpg&type=sc960_832",
+                "food-video" : "https://youtube.com/shorts/MLWQGxGDgYs?feature=shared"
+            },{
+                "food-name" : "잣, 아보카도 & 두부 수프",
+                "food-image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDEwMDlfMjEg%2FMDAxNzI4NDczMjkwNzI4.xUktVt6kdP2en_52qslsh-Q4gSLNEcS1VPksNqxdYL8g.bLIw4DFH5hoChYXcvbZ1EX-kCAxu0FO1BKPqM71RL8Yg.PNG%2Fimage.png&type=sc960_832",
+                "food-video" : "https://youtube.com/shorts/a8KgYUFKcrU?si=Q-vEgJqp52J5nymI"
+            }
+        ],
+        "story_image" : "https://velog.velcdn.com/images/oksk6681/post/aae4f4fe-013c-4105-a29e-6bf8c9674450/image.png",
+        "story_content" : "저는 비빔 인간입니다. 왜냐하면 저는 비빔밥처럼 많은 문화가 섞여 있어요. 솔직히 말하자면 제 한국인 정체성에 대해서 많이 고생했어요. 미국 사람인가? 아니면 한국 사람인가? 하지만 열심히 요리할 때 그런 생각은 다 없어지고 한 맛을 위해 노력할 수 있었어요. 이건 저에게 가장 중요한 거예요. 비빔밥은 처음 보면 여러 가지 재료와 색깔이 있어요. 근데 섞어서 한 가지 맛을 만들어요. 저는 비빔밥을 볼 때 그 안에서 제 자신을 봐요. 이건 제 삶과 한국계 미국인으로서의 정체성을 반영해요. 제 인생은 비빔밥과 같아요.",
+        "restaurant_type" : "남부 요리 고급 다이닝",
+        "restaurant_name" : "610 마그놀리아",
+        "restaurant_time" : "17:30 ~ 21:00 (수~토)",
+        "restaurant_phone" : "미제공(외국 식당)",
+        "restaurant_place" : "610 W Magnolia Ave, 루이스빌, KY",
+        "restaurant_place_url" : "",
+        "restaurant_reservation_url" : "",
+        "restaurant_sns_url" : ""
     }, {
         "u_id": "4",
         "name": "최현석",
@@ -30,7 +105,32 @@
         "cook_type": "양식",
         "image": "https://velog.velcdn.com/images/oksk6681/post/b00e9119-33e8-48ba-93c2-0a6c7b3feb93/image.png",
         "empty_image" : "https://velog.velcdn.com/images/oksk6681/post/09b47daf-b459-45db-a86b-dabdcda5ff77/image.png",
-        "saying" : "주방에서 셰프보다<br/>더 높은게 있어요. 재료죠"
+        "saying" : "주방에서 셰프보다<br/>더 높은게 있어요. 재료죠",
+        "food-info" : [
+            {
+                "food-name" : "장 트리오 스테이크",
+                "food-image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDEwMTlfMTYy%2FMDAxNzI5MjY0NDQ5NjI4.7lh_GC2UoYBm1QNrLX3cuLlTPy4mR76ux5nv3JUvm7Mg.Ln52FE8O1F_KUm0KDU_x3ZAms6kREo53ZPMFRuh9GCUg.JPEG%2F20241018%25A3%25DF234818.jpg&type=sc960_832",
+                "food-video" : "https://youtube.com/shorts/WgNP0vgPanQ?si=9Eo_omCZ91E2yDCD"
+            },{
+                "food-name" : "봉골레",
+                "food-image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDEwMDNfMzEg%2FMDAxNzI3ODgyODQ1NTUw.IDnf2DT1BviElEJx83SOhIt1OPg45fOa5iq8WKFtzNUg.ZbIhsLKQCVuN7O8bnR2BN_TuUE2eK-oCrQg5O-GeyeUg.PNG%2Fscreencapture-netflix-watch-81728392-2024-10-02-23_44_42.png&type=sc960_832",
+                "food-video" : "https://youtube.com/shorts/L9wPlXTFi3o?si=E5t6PbSNNUFUoxC9"
+            },{
+                "food-name" : "마파두부 밀라네제",
+                "food-image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDEwMTdfMTc4%2FMDAxNzI5MTQwOTA2MTQ1.1vMULUTkV5nne7eVzVn9c-WiYN21eeh3zDWX2gO-4esg.8hcdcQ00LpViC7S1x-2u4C8aKCFmhOBdGqKYZ3GZyScg.JPEG%2F%25B8%25B6%25C6%25C4%25B5%25CE%25BA%25CE_%25B9%25D0%25B6%25F3%25B3%25D7%25C1%25A6.jpg&type=sc960_832",
+                "food-video" : "https://youtube.com/shorts/B3IBm3ODkSQ?si=GRQpjdQpKGwhNGUw"
+            }
+        ],
+        "story_image" : "https://velog.velcdn.com/images/oksk6681/post/4f4b67fd-f683-485a-90c3-720e1ab06b31/image.png",
+        "story_content" : "저는 어렸을 때 굉장히 부유하게 살았어요. 근데 아버지의 갑작스러운 사업 실패로 집안 형편이 어려워졌어요. 그 충격으로 아버지는 뇌출혈로 쓰러지시고 반신불수가 되셨어요. 대신 어린 저희들을 키우기 위해서 엄마가 시장 한 쪽 구석의 노점에서 국수 장사를 하셨어요. 학교 다닐 때는 그 국수가 먹기 싫었어요. 가난에 대한 이미지인 거 같았어요. 그러다 엄마가 당뇨 합병증이 오셔서 양쪽 눈을 수술하게 되신 거예요. 국수 삶는 거를 배우게 된 거에요, 저도 모르게. 장사를 하다가 저도 결혼을 하고 아이를 낳고 좌판 뒤에 있는 점포를 하나 사서 확장을 할 수 있었어요. 그 덕분에 양쪽 부모님들 다 모시고 아들딸 맛있는 거 사주면서 저도 생계를 유지하게 된 거죠. 그렇게 제가 먹기 싫어하는 국수가 지금은 최고의 은인이에요. 이 국수는 저에게 기적적이고 운명 같은 국수에요.",
+        "restaurant_type" : "이탈리안 음식",
+        "restaurant_name" : "쵸이닷(CHOI.)",
+        "restaurant_time" : "12:00 - 22:00",
+        "restaurant_phone" : "02-518-0318",
+        "restaurant_place" : "서울 강남구 도산대로 457 앙스돔빌딩 3층",
+        "restaurant_place_url" : ["daumRoughmapContainer1733065155386", "1733065155386", "2mdyh"],
+        "restaurant_reservation_url" : "https://app.catchtable.co.kr/ct/shop/choidot?from=share&type=VISIT_RESERVATION",
+        "restaurant_sns_url" : "https://www.instagram.com/choidot_official/"
     }, {
         "u_id": "5",
         "name": "권성준",
@@ -38,7 +138,32 @@
         "cook_type": "이탈리안",
         "image": "https://velog.velcdn.com/images/oksk6681/post/92955bef-9ffb-4f5e-8fe9-c05df1c532b5/image.png",
         "empty_image" : "https://velog.velcdn.com/images/oksk6681/post/266806f7-5e8a-4d0c-84c9-300f8d20fb46/image.png",
-        "saying" : "리조또 쿠킹은<br/>20분이면 끝나요"
+        "saying" : "리조또 쿠킹은<br/>20분이면 끝나요",
+        "food-info" : [
+            {
+                "food-name" : "밤 티라미수",
+                "food-image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDEwMDNfNDUg%2FMDAxNzI3OTIzNDk5NjUz.HfnGij4fJaAdl3AlnerZOKOehvk7nE_aduOFgvy2yhUg.Wrv43rYvg7G8A9ftT-QDBGcMgTQRdxyK5SlWTxo3VYQg.PNG%2F%25B9%25E3%25C6%25BC%25B6%25F3%25B9%25CC%25BC%25F6.png&type=sc960_832",
+                "food-video" : "https://youtube.com/shorts/nOqmbUQ51uc?si=LvGESgrZ15tkb5QI"
+            },{
+                "food-name" : "할머니의 게국지 파스타",
+                "food-image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDEwMDRfMjUz%2FMDAxNzI3OTg5ODQ5Mjg4.MERM5Dw1bFn5wqVaqTsocxjj9iiUxj7fs4o2hdbpjywg.s5qna8BGrcQGBtOieRRmQqUwfdLwebpwKgJIjYrQMdkg.PNG%2Fimage.png&type=sc960_832",
+                "food-video" : "https://youtube.com/shorts/DMgbW91VZjY?si=UPK1T_lFrtRZ5y6f"
+            },{
+                "food-name" : "양의 심장과 야생 버섯을 곁들인<br/>피스타치오 양갈비",
+                "food-image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDEwMDhfMjk1%2FMDAxNzI4Mzc4ODk0ODc4.ZPTgbx49Uy79xAppNwWl70x_A-h4daxmLpJJlI0E61Yg.u_Z4fhZ-1VRRaTfEGtxNVr7MaRaFuyKN0AwsG8MMCAsg.PNG%2Fscreencapture-netflix-watch-81786030-2024-10-08-18_14_47.png&type=sc960_832",
+                "food-video" : "https://youtube.com/shorts/FhzX3lewK_8?si=WCAiu14R5CWPAk8Z"
+            }
+        ], 
+        "story_image" : "https://velog.velcdn.com/images/oksk6681/post/9988a039-55c8-4291-af29-af0f9f2bd064/image.png",
+        "story_content" : "저는 못난이입니다. 강한 눈빛과 강한 인상, 그리고 항상 불만이 가득차 있는 표정으로 늘 오해를 받았어요. 사실 상처를 되게 많이 받았어요. ‘나는 누구를 위한 사람인가’하는 생각을 정말 많이 했었어요. 제 인생을 표현하는 요리라는 주제가 나왔을 때 정말 제 본모습을 보여드리고 싶었어요. 못난이 양파를 쓴 이유가 맛과 영양분은 같다고 생각하는데 못생겼다는 이유로 외면을 받는 게 꼭 제 상황 같았어요. 저에 대한 색안경을 쓴 사람들에게 꼭 먹여주고 싶습니다. 나 그런 사람 아니라고..",
+        "restaurant_type" : "스파게티, 파스타 전문",
+        "restaurant_name" : "비아 톨레도 파스타바",
+        "restaurant_time" : "17:00 ~ 22:00 (화~토)",
+        "restaurant_phone" : "0507-1384-0986",
+        "restaurant_place" : "서울 용산구 원효로83길 7-2 1층",
+        "restaurant_place_url" : ["daumRoughmapContainer1733069057951", "1733069057951", "2mez3"],
+        "restaurant_reservation_url" : "https://app.catchtable.co.kr/ct/shop/viatoledo",
+        "restaurant_sns_url" : "https://www.instagram.com/viatoledo_official/"
     }, {
         "u_id": "6",
         "name": "강승원",
@@ -46,7 +171,32 @@
         "cook_type": "파인다이닝",
         "image": "https://velog.velcdn.com/images/oksk6681/post/37280b06-189f-45fd-997c-82b52e79ee43/image.png",
         "empty_image" : "https://velog.velcdn.com/images/oksk6681/post/132e7075-14d0-4b43-8b2f-5a811c2b9bff/image.png",
-        "saying" : "내 요리를<br/>알아봐 주실 수 있을까?"
+        "saying" : "내 요리를<br/>알아봐 주실 수 있을까?",
+        "food-info" : [
+            {
+                "food-name" : "오겹살 떡갈비와 소스 에푸아스",
+                "food-image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDEwMDFfMTYx%2FMDAxNzI3NzU5MzA1OTcx.VUSWY5tOCb1j1WYvQwbhEDKI-BZp2OZK-IImNeMv8X4g.ID6b1WM_QWrMPtITy68_023lArWt3jOQ-QoE2sqbKe4g.PNG%2Fimage.png&type=sc960_832",
+                "food-video" : "https://youtube.com/shorts/kdjQooXrg00?si=kxtxJszlUymPmuEJ"
+            },{
+                "food-name" : "랍스터와 동남아풍 후추 소스 <br/>그리고 랍스터 키닐라우",
+                "food-image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDA5MjJfMjY5%2FMDAxNzI3MDEyNDI1MDAx.hr1QyPDfKXJogCltrFcK_WnYQG_TMB3SIaK59gCr5Y4g.BxTK9G1now2XWdmd_QEBwMBK2Ny1oubPUB6M9T3_9m8g.PNG%2Fimage.png&type=sc960_832",
+                "food-video" : "https://youtube.com/shorts/xKmck0uEx_I?si=ucE-LA8GXON_HF1h"
+            },{
+                "food-name" : "두부 멘보샤",
+                "food-image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDEwMDhfOSAg%2FMDAxNzI4Mzk5MDc0ODMx.TxGUw8YeTV3OXs5SSFkkppsBH_hJtid1-iovyp_JcGwg.NZndyYk6_HawTsvHxAzKc7_8H3yWMUeMhMHTwC--2Zgg.PNG%2Fscreencapture-netflix-watch-81786029-2024-10-08-23_26_08.png&type=sc960_832",
+                "food-video" : "https://youtube.com/shorts/pgT3MCjWZ9A?si=S8TTyXUPYdICB_wJ"
+            }
+        ],
+        "story_image" : "https://velog.velcdn.com/images/oksk6681/post/a3a5b5db-8fd4-4f18-b3cb-4ab963a323b1/image.png",
+        "story_content" : "저랑 증조할머니의 이야기를 담은 음식이에요. 저희 부모님이 맞벌이를 하셔서 증조할머니께서 저를 많이 키워주셨어요. 그때 기억에 남는 음식이 게국지였어요. 충청남도의 향토 음식인데 이걸 제가 좋아해서 준비를 하게 되었어요. 증조할머니가 자주 드시던 알사탕이 있는데, 그 모양을 한 파스타에요. 할머니가 용돈을 주실 때 엄청 오래된 동전 지갑에서 쌈짓돈을 꺼내 주신 기억이 있어서 동전 지갑 모양의 배추만두를 준비했어요. 방게 튀김도 할머니께서 간식으로 많이 해주셨던 거예요. 할머니에 대한 맛의 추억과 기억을 저의 방식대로 재해석해 본 요리에요.",
+        "restaurant_type" : "양식",
+        "restaurant_name" : "트리드",
+        "restaurant_time" : "12:00 ~ 22:00 (화~토)",
+        "restaurant_phone" : "02-512-8312",
+        "restaurant_place" : "서울 강남구 선릉로162길 16 2층",
+        "restaurant_place_url" : ["daumRoughmapContainer1733069116630", "1733069116630", "2mez4"],
+        "restaurant_reservation_url" : "https://app.catchtable.co.kr/ct/shop/trid",
+        "restaurant_sns_url" : "https://www.instagram.com/tridseoul/#"
     }, {
         "u_id": "7",
         "name": "윤남노",
@@ -54,7 +204,32 @@
         "cook_type": "양식",
         "image": "https://velog.velcdn.com/images/oksk6681/post/b877adba-3b3c-4fc3-a283-a24e755de653/image.png",
         "empty_image" : "https://velog.velcdn.com/images/oksk6681/post/c5d64f4b-06fe-4563-98b7-3a569860993c/image.png",
-        "saying" : "나 리조또가 불안해서 그래. <br/>진짜 괜찮은 거죠 진짜?"
+        "saying" : "나 리조또가 불안해서 그래. <br/>진짜 괜찮은 거죠 진짜?",
+        "food-info" : [
+            {
+                "food-name" : "라면 팟타이",
+                "food-image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDEwMDJfMTE2%2FMDAxNzI3ODQ2OTAzMDA0.P-L0G-fwgcrpshIAJGleSZ04Df4IsInTcZYTUbhAnikg.ez7cSwoTQX3lGZ2BKEldnTWAD0R0TsGujRmfApI52Jsg.JPEG%2FIMG_3155.jpg&type=sc960_832",
+                "food-video" : "https://youtube.com/shorts/RAt1GuhvIto?feature=shared"
+            },{
+                "food-name" : "프렌치 장어 계란찜",
+                "food-image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDEwMDRfMjg5%2FMDAxNzI4MDI0MTI1NzUx.fceMhT7SJnsif36wZHavntuR8k_iMnndR3IKfpQIDgAg.ho7bfjCSKuzy5A6J1SkKgpY66k9oAT2P0Wh9JAO8EX8g.PNG%2Fimage.png&type=sc960_832",
+                "food-video" : "https://youtube.com/shorts/r0ECTaJqE-U?feature=shared"
+            },{
+                "food-name" : "참치로 감싼 톳두부무침",
+                "food-image" : "https://www.elle.co.kr/resources/online/online_image/2024/10/17/59555f71-b052-490b-a662-059788a56b83.png",
+                "food-video" : "https://youtube.com/shorts/uY0DIm0Cffc?feature=shared"
+            }
+        ],
+        "story_image" : "https://velog.velcdn.com/images/oksk6681/post/fd706b35-7198-4226-8f7a-d19454784a8d/image.png",
+        "story_content" : "저를 버티게 해 주었던 정말 고마운 음식이에요. 제가 어떤 마음가짐과 자세로 일을 해야 하는 지 혼란이 왔을 때 코리 리 셰프님이 나오는 다큐를 보고 ‘저기 가서 일해야 겠다’는 생각이 딱 들었어요. 그래서 미국으로 가고 인턴을 할 수 있는 기회를 얻어서 일을 하게 되었어요. 그때 이후 잠을 줄여 가면서 치열하게 살아남으려고 공부를 했고, 그러다가 정말 너무 힘이 들 때면 피어39 부둣가에 가서 따뜻하고 고소한 클램차우더를 먹으면 힐링이 되었고, 낯선 미국 땅에서 저를 위로해 준 그런 음식이었어요.",
+        "restaurant_type" : "양식",
+        "restaurant_name" : "디핀옥수",
+        "restaurant_time" : "12:00 ~ 22:00",
+        "restaurant_phone" : "0507-1331-4410",
+        "restaurant_place" : "서울 성동구 독서당로 194 지하 1층",
+        "restaurant_place_url" : ["daumRoughmapContainer1733069165709", "1733069165709", "2mez5"],
+        "restaurant_reservation_url" : "https://app.catchtable.co.kr/ct/shop/deepin_oksu",
+        "restaurant_sns_url" : "https://www.instagram.com/deepin_oksu/"
     }, {
         "u_id": "8",
         "name": "김미령",
@@ -62,6 +237,31 @@
         "cook_type": "한식",
         "image": "https://velog.velcdn.com/images/oksk6681/post/ec0e09d8-bc37-4534-9b47-8bcf85621023/image.png",
         "empty_image" : "https://velog.velcdn.com/images/oksk6681/post/ceba2b2a-5493-4933-a14a-b6c9ca02168b/image.png",
-        "saying" : "다 잘 되자고 하는 건데요, 뭐."
+        "saying" : "다 잘 되자고 하는 건데요, 뭐.",
+        "food-info" : [
+            {
+                "food-name" : "손칼국시 배추전/기장밥/겉절이",
+                "food-image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDEwMDVfMjk4%2FMDAxNzI4MTQwMDY1MTc3.1bpvoIGAKW8bWySvJi6UU2XHJO-SK4kPDYu7BZ-V6EEg.1lEi_J21ae5F9gcbqCXQxQmCrETzSeisTPAnHj9M3bwg.PNG%2F%25C8%25E6%25B9%25E966.png&type=sc960_832",
+                "food-video" : "https://youtube.com/shorts/ks8SXeK6N9I?feature=shared"
+            },{
+                "food-name" : "두부찌개",
+                "food-image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDEwMDhfMjIx%2FMDAxNzI4Mzc3NDc4Njcw.YgQ-F3A-fo60JG7Mu3m9GWoUNaZxanBuDQO4QAc9xgMg.T10Q8f0rKgbr6fbclUUukuGlp4aQyvK_tzj0q9GQ-4kg.PNG%2Fimage.png&type=sc960_832",
+                "food-video" : "https://youtube.com/shorts/3kWsWwJUS4c?feature=shared"
+            },{
+                "food-name" : "두부 만두",
+                "food-image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDEwMTdfMjYz%2FMDAxNzI5MTQxMDkyNzQy.kKledm31ASExIHZbIFeUsjcQVT9yaRJjc1VnQFUaUCkg.k1kbptmVIfWCuJ6AvJMB5GBQC2WliRUhPvpl5Mqoqrog.JPEG%2F%25B5%25CE%25BA%25CE%25B8%25B8%25B5%25CE.jpg&type=sc960_832",
+                "food-video" : "https://youtube.com/shorts/9M959dPvV3M?feature=shared"
+            }
+        ],
+        "story_image" : "https://velog.velcdn.com/images/oksk6681/post/fa5132c4-bbae-46b0-a545-1dc3dc5e08a0/image.png",
+        "story_content" : "1995년 3월 23일, 제가 처음 요리를 시작한 날을 잊지 않아요. 제 첫 직장은 남산 하얏트 호텔 맞은편에 있는 정통 이탈리안 레스토랑 ‘라쿠치나’라는 곳이었는데요. 너무 바쁜 매장이라 정신이 없었어요. 그리고 서비스 타임에는 이탈리아 말로 소통을 하는 거예요. 가뜩이나 제가 하는 일도 없어서 움츠리고 쪼그라져 있는데 선배 형이 와서 “야, 막내. 워크인 냉장고에 좀 들어가 봐.” 이러는 거예요. 그래서 저는 심부름 시키는 줄 알고 들어갔는데 덮어진 우유 박스 위에 봉골레 한 접시가 있는데 김이 모락모락 나더라고요. 막 허겁지겁 먹었는데 너무 맛있더라고요. 그때 생각을 한 게 ‘내가 앞으로 계속 이 일을 하면 이거는 내가 제일 잘 만드는 사람이 돼보고 싶다’는 생각을 했어요. 뒤에 라쿠치나 출신 중에 봉골레 제일 잘 하는 사람이 됐습니다.",
+        "restaurant_type" : "요리주점",
+        "restaurant_name" : "즐거운 술상",
+        "restaurant_time" : "17:00 - 20:00 (월~토)",
+        "restaurant_phone" : "010-7539-2020",
+        "restaurant_place" : "서울 도봉구 노해로 341 신원리베르텔 1층 117호",
+        "restaurant_place_url" : ["daumRoughmapContainer1733069223753", "1733069223753", "2mez6"],
+        "restaurant_reservation_url" : "",
+        "restaurant_sns_url" : ""
     }
 ]

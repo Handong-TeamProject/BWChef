@@ -5,9 +5,9 @@
     width: 258px;
     height : 320px;
     
-    margin-right: 20px;
+    margin-right: 40px;
 
-    transition: transform 0.5s ease;
+    transition: transform 1s ease;
 
     &:last-child{
         margin-right: 0px;

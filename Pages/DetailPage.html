@@ -3,12 +3,14 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" href="/images/favicon.ico"/>
+        <link rel="apple-touch-icon" href="/images/favicon.ico"/>
         <link rel="stylesheet" href="../Style/detail.css">
         <link rel="stylesheet" href="../Style/default.css">
         <link rel="stylesheet" href="../Style/header.css">
         <link rel="stylesheet" href="../Style/footer.css">
         <style>
-            body{
+            body {
                 background-color: white;
             }
         </style>
@@ -16,7 +18,7 @@
     </head>
     <body>
         <header>
-            <a href=""><img
+            <a href="../index.html"><img
                 src="https://velog.velcdn.com/images/oksk6681/post/73cca5a8-c454-4f97-a9fd-e6b324c7df49/image.png"
                 alt="logo_black"
                 id="image-logo"/></a>
@@ -30,21 +32,86 @@
             </div>
         </header>
         <div id="div-base-container">
-            <div id = "div-container-1">
-                <div id = "div-left-container">
-                    <div id = "div-chef-info">
-                        <p id = "p-chef-name"></p>
-                        <p id = "p-chef-cook-type"></p>
+            <div id="div-container-1">
+                <div id="div-left-container">
+                    <div id="div-chef-info">
+                        <p id="p-chef-name"></p>
+                        <p id="p-chef-cook-type"></p>
                     </div>
-                    <img src = "" id = "img-empty-image"/>
+                    <img src="" id="img-empty-image"/>
                 </div>
-                <div id = "div-right-container">
-                    <p id = "p-chef-saying-title">출연진의 명대사</p>
-                    <p id = "p-chef-saying"></p>
+                <div id="div-right-container">
+                    <p id="p-chef-saying-title">출연진의 명대사</p>
+                    <p id="p-chef-saying"></p>
+                </div>
+            </div>
+
+            <div id="div-container-2">
+                <div id="div-cook-info-container">
+                    <p id="p-cook-info-title">| Food List</p>
+                    <p id="p-cook-infi-title-sub">* 사진 클릭 시 관련 영상을 보실 수 있습니다.</p>
+                </div>
+                <div id="div-cook-item-list">
+
+                    <!-- <div id = "div-cook-item-container"> <p id = "p-cook-item-title">오겹살 떡갈비와
+                    소스 에푸아스</p> <img id = "img-cook-item-image" src =
+                    "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDEwMDFfMTYx%2FMDAxNzI3NzU5MzA1OTcx.VUSWY5tOCb1j1WYvQwbhEDKI-BZp2OZK-IImNeMv8X4g.ID6b1WM_QWrMPtITy68_023lArWt3jOQ-QoE2sqbKe4g.PNG%2Fimage.png&type=sc960_832"/>
+                    </div> -->
+                </div>
+            </div>
+
+            <div id="div-container-3">
+                <p id="p-container-3-title">special story</p>
+                <img src="" id="img-story-item"/>
+                <p id="p-story-content"></p>
+            </div>
+
+            <div id="div-container-4">
+                <div id="div-conatiner-4-title">
+                    <p id="p-container-4-title">restaurant info</p>
+                </div>
+                <div id="div-restaurant-info1">
+                    <p id="p-restaurant-type"></p>
+
+                    <p id="p-restaurant-name"></p>
+                    <div id="div-restaurant-info-sub">
+                        <p id="p-restaurant-info-sub">영업 시간</p>
+                        <p id="p-restaurant-time"></p>
+                    </div>
+                    <div id="div-restaurant-info-sub">
+                        <p id="p-restaurant-info-sub">연락처</p>
+                        <p id="p-restaurant-phone"></p>
+                    </div>
+                </div>
+                <div id="div-restaurant-info2">
+                    <div id="div-restaurant-info2-left-container">
+                        <a href = "" id = "a-restaurant-reservation_url" target = "_blank">
+                            <img src = "../images/reservation.png" alt = "예약" id = "img-icon"/>
+                            <p id = "p-restaurant-info2-href-name">레스토랑 예약하기</p>
+                        </a>
+                        <a href="" id="a-restaurant-sns_url" target = "_blank">
+                            <img src="../images/sns.png" alt="예약" id = "img-icon"/>
+                            <p id = "p-restaurant-info2-href-name">SNS 프로필</p>
+                        </a>
+                    </div>
+                    <div id="div-restaurant-info2-right-container">
+                        <div id = "div-restaurant-place">
+                            <p id="p-restaurant-place"></p>
+                        </div>
+                        <div id = "div-restaurant-place-map"></div>
+                    </div>
+
                 </div>
             </div>
         </div>
-
+        
+        <script
+        charset="UTF-8"
+        class="daum_roughmap_loader_script"
+        src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
+        
         <script src="../Script/detail.js"></script>
+        
     </body>
 </html>
+
