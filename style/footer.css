@@ -1,8 +1,39 @@
 footer{
     width: 100%;
-    height : 200px;
+    height : 130px;
     display: flex;
     padding : 0px 100px;
     box-sizing: border-box;
-    background-color:  var;
+    background-color: #2F2F2F;
+    align-items: center;
+}
+
+#div-footer-left{
+    width: 50%;
+    /* background-color: red; */
+}
+
+#div-footer-right{
+    width: 50%;
+    /* background-color: orange; */
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+#div-footer-makers-list{
+    display: flex;
+    justify-content: space-around;
+}
+#p-footer-makers-item{
+    margin-left: 20px;
+    transition: color 1s ease;
+}
+
+#p-footer-makers-item:hover{
+    color : orange;
+}
+
+#p-footer-info{
+    margin-bottom: 10px;
 }
