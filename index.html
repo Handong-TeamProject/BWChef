@@ -119,6 +119,21 @@
                 </div>
             </div>
         </div>
+
+        <script>
+            // 현재 화면의 너비를 체크하고 조건에 따라 동작 수행
+                if (window.innerWidth < 700) {
+                    document.body.innerHTML = '<p style="text-align: center; font-size: 20px;"><br/>모바일은 지원하지 않습니다.<br/>데스크탑으로 접속하세요</p>';
+                }
+
+                // 화면 크기 변경 시에도 동작하도록 이벤트 추가
+                window.addEventListener('resize', () => {
+                    if (window.innerWidth < 500) {
+                        document.body.innerHTML = '<p style="text-align: center; font-size: 20px;"><br/>모바일은 지원하지 않습니다.<br/>데스크탑으로 접속하세요</p>';
+                    }
+                });
+        </script>
+
         <script>
             window.onload = function () {
                 const imagePoster = document.getElementById("image-poster");
@@ -145,5 +160,6 @@
                 });
             });
         </script>
+
     </body>
 </html>
