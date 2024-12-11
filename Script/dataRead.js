@@ -9,12 +9,9 @@ fetch('../Data/Chef.json')
         const whiteContainer = document.getElementById("white-container");
         const blackContainer = document.getElementById("black-container");
 
-        // 'white' 그룹은 첫 4개
         const whiteData = data.slice(4);
-        // 'black' 그룹은 나머지
         const blackData = data.slice(0, 4);
 
-        // white 그룹 처리
         whiteData.forEach(item => {
             const itemDiv = document.createElement("div");
             itemDiv.id = "div-chef-card";
@@ -29,7 +26,6 @@ fetch('../Data/Chef.json')
             whiteContainer.appendChild(itemDiv);
         });
 
-        // black 그룹 처리
         blackData.forEach(item => {
             const itemDiv = document.createElement("div");
             itemDiv.id = "div-chef-card";

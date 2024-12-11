@@ -1,8 +1,6 @@
-// URL에서 쿼리 파라미터 추출
 const urlParams = new URLSearchParams(window.location.search);
-const u_id = urlParams.get('u_id'); // u_id 값 추출
+const u_id = urlParams.get('u_id'); 
 
-// JSON 파일에서 데이터 가져오기
 fetch('../Data/Chef.json')
     .then(response => {
         if (!response.ok) {
@@ -11,10 +9,8 @@ fetch('../Data/Chef.json')
         return response.json();
     })
     .then(data => {
-        // u_id와 일치하는 객체 찾기
         const selectedData = data.find(item => item.u_id === u_id);
 
-        // img 태그에 empty_image 값 추가
         if (selectedData) {
             const imgElement = document.getElementById('img-empty-image');
             imgElement.src = selectedData.empty_image;
@@ -26,38 +22,30 @@ fetch('../Data/Chef.json')
             const sayingElement = document.getElementById('p-chef-saying');
             sayingElement.innerHTML = selectedData.saying;
             
-            // 음식 정보를 div-cook-item-list에 추가
             const foodListContainer = document.getElementById('div-cook-item-list');
 
             selectedData['food-info'].forEach((food) => {
-                // 음식 정보를 위한 div 생성
                 const foodItemDiv = document.createElement('div');
                 foodItemDiv.id = 'div-cook-item-container';
 
-                // 음식 제목 p 태그
                 const foodTitle = document.createElement('p');
                 foodTitle.id = 'p-cook-item-title';
-                foodTitle.innerHTML = food['food-name'].replace(/\n/g, '<br/>'); // '\n'을 '<br/>'로 변환
+                foodTitle.innerHTML = food['food-name'].replace(/\n/g, '<br/>');
 
-                // 음식 링크 a 태그
+
                 const foodLink = document.createElement('a');
                 foodLink.id = 'img-cook-item-a-href';
-                foodLink.href = food['food-video']; // food-video 값 추가
-                foodLink.target = '_blank'; // 새 탭에서 열리도록 설정
+                foodLink.href = food['food-video']; 
+                foodLink.target = '_blank'; 
 
-                // 음식 이미지 img 태그
                 const foodImage = document.createElement('img');
                 foodImage.id = 'img-cook-item-image';
                 foodImage.src = food['food-image'];
 
-                // a 태그에 img 태그 추가
                 foodLink.appendChild(foodImage);
-
-                // div에 자식 요소 추가
                 foodItemDiv.appendChild(foodTitle);
                 foodItemDiv.appendChild(foodLink);
 
-                // foodListContainer에 추가
                 foodListContainer.appendChild(foodItemDiv);
             });
                 
@@ -94,8 +82,6 @@ fetch('../Data/Chef.json')
                 restaurantReservationUrlElement.href = selectedData.restaurant_reservation_url;
                 restaurantSnsUrlElement.href = selectedData.restaurant_sns_url;
             }
-            
-
 
             new daum.roughmap.Lander({
                 "timestamp" : selectedData.restaurant_place_url[1],
