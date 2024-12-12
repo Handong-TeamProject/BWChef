@@ -14,7 +14,6 @@
         <title>ListPage</title>
     </head>
     <body>
-    <!-- <body style="background-image: url(../images/ListPageBG.png); background-size: 100%; background-repeat: no-repeat;"> -->
         <img src = "../images/ListPageBG.png" id = "img-bg-image"/>
         <header>
             <a href="../index.html"><img
@@ -31,8 +30,6 @@
             </div>
         </header>
         <div id="div-base-container">
-            <!-- ListPage -->
-            <!-- <a href="./DetailPage.html">DetailPage</a> -->
 
             <p class="p-text-small" id = "p-text-small-1">흑과 백의 요리사들이 모였다.</p>
             <p class="p-text-big">요리를 통한 그들의 배틀이 시작된다.</p>
@@ -62,12 +59,9 @@
             </div>
         </footer>
         <script>
-            // 현재 화면의 너비를 체크하고 조건에 따라 동작 수행
             if (window.innerWidth < 700) {
                 document.body.innerHTML = '<p style="text-align: center; font-size: 20px;"><br/>모바일은 지원하지 않습니다.<br/>데스크탑으로 접속하세요</p>';
             }
-
-            // 화면 크기 변경 시에도 동작하도록 이벤트 추가
             window.addEventListener('resize', () => {
                 if (window.innerWidth < 500) {
                     document.body.innerHTML = '<p style="text-align: center; font-size: 20px;"><br/>모바일은 지원하지 않습니다.<br/>데스크탑으로 접속하세요</p>';
